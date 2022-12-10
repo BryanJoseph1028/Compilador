@@ -1,0 +1,13 @@
+public class hola
+{
+   int a;
+  int b;
+   int s =  a + b ;
+ System.out.println(s);
+while(s>7)
+{
+dsds
+}end while;
+
+}
+1a
